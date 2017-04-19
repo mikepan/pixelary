@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Pixelary</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>The Pixelary is a newly established Vancouver-based animation studio founded by Mike Pan.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 19 Apr 2017 14:23:28 -0700</pubDate>
-    <lastBuildDate>Wed, 19 Apr 2017 14:23:28 -0700</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2017 14:47:59 -0700</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2017 14:47:59 -0700</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
     
       <item>
