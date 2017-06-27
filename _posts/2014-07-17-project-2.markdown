@@ -1,0 +1,17 @@
+---
+title: Peloton Aerodynamics
+subtitle: Visualization
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: totalsim.jpg
+thumbnail: totalsimT.jpg
+alt: image-alt
+project-date: November 2015
+client: TotalSim US
+category: Web Development
+description: TotalSim asked us to create a video to show the detailed aerodynamics of bikes traveling in a tight formation. All lighting, surfacing and environment modelling is done in Blender. Fluid Simulation is done at the Ohio Supercomputer Center.<br><br> <iframe src="https://player.vimeo.com/video/145306550?title=0&byline=0&portrait=0" width="700" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+link: https://www.totalsim.us
+
+
+---
