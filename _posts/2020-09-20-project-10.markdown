@@ -1,0 +1,16 @@
+---
+title: Mercedes-AMG F1 W11 EQ Performance
+subtitle: AMD Radeon™ ProRender
+layout: default
+modal-id: 10
+date: 2020-09-20
+img: f1a.jpg
+thumbnail: f1T.jpg
+alt: image-alt
+project-date: September 2020
+client: AMD Inc.
+category: Media Content Development
+link: https://www.amd.com/en/technologies/radeon-prorender
+description: Using AMD Radeon™ ProRender and Blender®, we delivered over 2 dozen hyperreal images for AMD and the Mercedes-AMG Petronas F1 Team. We were responsible for conceptualization, some modelling, all material and shading development, and final look development. <br><br><img class="img-responsive" src="img/portfolio/f1b.jpg"><img class="img-responsive" src="img/portfolio/f1c.jpg"><img class="img-responsive" src="img/portfolio/f1d.jpg"><img class="img-responsive" src="img/portfolio/f1i.jpg"><img class="img-responsive" src="img/portfolio/f1e.jpg"><img class="img-responsive" src="img/portfolio/f1g.jpg"><img class="img-responsive" src="img/portfolio/f1h.jpg"><br>AMD, the AMD Arrow logo, Radeon, and combinations thereof are trademarks of Advanced Micro Devices, Inc.<br>
+
+---
