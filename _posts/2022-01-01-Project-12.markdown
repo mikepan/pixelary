@@ -4,8 +4,8 @@ subtitle: Fleet Launch Video
 layout: default
 modal-id: 12
 date: 2022-01-01
-img: w12-a.jpg
-thumbnail: actrosT.jpg
+img: actros4.png
+thumbnail: actrosT.png
 alt: image-alt
 project-date: January 2022
 client: Swift Haulage
@@ -13,10 +13,10 @@ category: Media Content Development
 link: https://swiftlogistics.com.my/
 description: Our friend at Swift Logistics was launching a fleet of new trucks so we helped them conceptualize and create a beautiful introductory video to highlight their new expanded operations. Using an off-the-shelf 3D model to get started quickly, we made extensive changes to the model, and completely redone the material and shading. We then explored different design concepts with the client until we arrived at a video idea that both showcases the truck as well a the size of the fleet as a whole.
 
-<br><img class="img-responsive" src="img/portfolio/actros1.jpg">
-<br><img class="img-responsive" src="img/portfolio/actros2.jpg">
-<br><img class="img-responsive" src="img/portfolio/actros3.jpg">
-<br><img class="img-responsive" src="img/portfolio/actros4.jpg">
+<br><img class="img-responsive" src="img/portfolio/actros1.png">
+<br><img class="img-responsive" src="img/portfolio/actros2.png">
+<br><img class="img-responsive" src="img/portfolio/actros3.png">
+<br><img class="img-responsive" src="img/portfolio/actros4.png">
 
 
 ---
