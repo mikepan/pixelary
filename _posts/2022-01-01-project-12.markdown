@@ -10,7 +10,7 @@ alt: image-alt
 project-date: January 2022
 client: Swift Haulage
 category: Media Content Development
-link: https://swiftlogistics.com.my/
-description: Our friend at Swift Logistics was launching a fleet of new trucks so we helped them conceptualize and create a beautiful introductory video to highlight their new expanded operations. Using an off-the-shelf 3D model to get started quickly, we made extensive changes to the model, and completely redone the material and shading. We then explored different design concepts with the client until we arrived at a video idea that both showcases the truck as well a the size of the fleet as a whole.<br><img class="img-responsive" src="img/portfolio/actros1.png"><br><img class="img-responsive" src="img/portfolio/actros2.png"><br><img class="img-responsive" src="img/portfolio/actros3.png"><br><img class="img-responsive" src="img/portfolio/actros4.png">
+link: https://swiftlogistics.com.my
+description: Once again using AMD Radeon™ ProRender® 3.1 for Blender, we delivered over 60 hyperreal images for AMD and the Mercedes-AMG Petronas F1 Team. We were responsible for conceptualization, material and shading development, lighting, environment, and final look development. <br><img class="img-responsive" src="img/portfolio/w12-b.jpg"><img class="img-responsive" src="img/portfolio/w12-c.jpg"><img class="img-responsive" src="img/portfolio/w12-d.jpg"><img class="img-responsive" src="img/portfolio/w12-e.jpg"><img class="img-responsive" src="img/portfolio/w12-f.jpg"><img class="img-responsive" src="img/portfolio/w12-g.jpg"><img class="img-responsive" src="img/portfolio/w12-h.jpg">ProRender has matured a lot since the last year and that is evident in the huge amount of variety of lighting scenarios we were able to explore in a short period of time.<br><br>AMD, the AMD Arrow logo, Radeon, and combinations thereof are trademarks of Advanced Micro Devices, Inc.<br>
 
 ---
