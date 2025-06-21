@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Since December 2015
 client: Google
 category: VR Content Development
-description: Working at Vida Systems, Mike had the amazing opportunity to work with Google on their Expeditions project. Google Expeditions is a VR learning experience designed for classrooms. With just a smartphone and a Cardboard viewer, students can journey to far-away places and feel completely immersed in the environment. Mike is the art director at Vida Systems for this project. <br/><br/><img class="img-responsive" src="img/portfolio/exp-Landscape.jpg"><img class="img-responsive" src="img/portfolio/exp-vessels.jpg"><img class="img-responsive" src="img/portfolio/exp-bones.jpg"><img class="img-responsive" src="img/portfolio/exp-solar.jpg">
+description: Working at Vida Systems as the Art Director, Mike oversaw a team of artists to deliver over 450 high quality VR and AR experiences for Google Expeditions, making us one of the top partner for Google Education.<br/><br/><img class="img-responsive" src="img/portfolio/exp-Landscape.jpg"><img class="img-responsive" src="img/portfolio/exp-vessels.jpg"><img class="img-responsive" src="img/portfolio/exp-bones.jpg"><img class="img-responsive" src="img/portfolio/exp-solar.jpg">
 link: http://vidasystems.com
 ---

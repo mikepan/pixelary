@@ -11,6 +11,6 @@ project-date: April 2017
 client: Chocolate Soop Inc.
 category: VR Content Development
 link: https://www.imdb.com/title/tt6822150/
-description: Mike is the visual effects supervisor for this animated short film featuring two robots who go on an unexpected adventure. Mike also contributed to the look-dev, surfacing, and rendering of this Blender-made film.<br><br><img class="img-responsive" src="img/portfolio/sng-gerd.jpg"><img class="img-responsive" src="img/portfolio/sng-whg.jpg"><img class="img-responsive" src="img/portfolio/sng-room.jpg"><br>Written and Directed by Dacosta Bayley.
+description: Mike served as the Visual Effects Supervisor on this animated short where two robots embark on an unexpected adventure. The project was shepherded by animation industry veterans Rex Grignon and Jason Schleifer, and utilized one of the earliest cloud animation platform in existence - Nimble Collective.<br><br><img class="img-responsive" src="img/portfolio/sng-gerd.jpg"><img class="img-responsive" src="img/portfolio/sng-whg.jpg"><img class="img-responsive" src="img/portfolio/sng-room.jpg"><br>Written and Directed by Dacosta Bayley.
 
 ---
